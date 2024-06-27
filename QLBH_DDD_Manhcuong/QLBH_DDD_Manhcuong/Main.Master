@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="QLBH_DDD_Manhcuong.Main" %>
+
+<%@ Register src="User_control/UC_left.ascx" tagname="UC_left" tagprefix="uc1" %>
+<%@ Register src="User_control/control_menu.ascx" tagname="control_menu" tagprefix="uc2" %>
+<%@ Register src="User_control/Sreach.ascx" tagname="Sreach" tagprefix="uc3" %>
+
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+
+    .auto-style1 {
+        text-align: center;
+    }
+    .auto-style1 {
+        text-align: center;
+    }
+        .auto-style1 {
+            height: 26px;
+        }
+        .auto-style3 {
+        width: 22%;
+        height: 15px;
+    }
+        .auto-style3 {
+            width: 195px;
+        }
+        .auto-style2 {
+        text-align: right;
+    }
+        .auto-style2 {
+            height: 144px;
+        }
+        .auto-style5 {
+            height: 133px;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+        </div>
+        <table style="width: 100%;">
+            <tr>
+                <td colspan="3" class="auto-style5">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Image/anhbia.png" Height="218px" Width="1281px" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style1" colspan="3">
+                    <uc2:control_menu ID="control_menu1" runat="server" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3" rowspan="3">
+                    <uc1:UC_left ID="UC_left1" runat="server" />
+                </td>
+                <td>
+                    <uc3:Sreach ID="Sreach1" runat="server" />
+                </td>
+                <td rowspan="3">&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style2">
+                    <div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

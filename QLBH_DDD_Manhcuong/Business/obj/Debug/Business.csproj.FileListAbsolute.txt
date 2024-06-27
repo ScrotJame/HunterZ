@@ -1,0 +1,9 @@
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\bin\Debug\Business.dll
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\bin\Debug\Business.pdb
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\bin\Debug\Data.dll
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\bin\Debug\Data.pdb
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\obj\Debug\Business.csproj.CopyComplete
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\obj\Debug\Business.dll
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Business\obj\Debug\Business.pdb

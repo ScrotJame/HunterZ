@@ -1,0 +1,6 @@
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Data\bin\Debug\Data.dll
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Data\bin\Debug\Data.pdb
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Data\obj\Debug\Data.dll
+D:\ManhCuong_Windows\APS.NET_ManhCuong\QLBH_DDD_Manhcuong\Data\obj\Debug\Data.pdb
